@@ -6,10 +6,10 @@ This project outlines a comprehensive **digital transformation strategy** for St
 
 ## My Contributions
 As part of a 3-member team, my primary areas of responsibility included:
-- **Research & Documentation:**  
-  - Lead role in research, data gathering and proofing and documentation  
+- **Team Role:**  
+  - Team coordinator responsible for task delegation, research planning and delieverable proofing  
 - **Content Development:**  
-  - Contributed to scoping, wbs and gantt chart planning, risk management, and stakeholder engagement sections 
+  - Undertook WBS chart planning, risk management, and stakeholder engagement sections 
 - **Coordination:**  
   - Maintained structured communication between team members and instructor
 
